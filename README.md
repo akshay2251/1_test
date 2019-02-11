@@ -1,2 +1,2 @@
 # 1_test
-getcommand demonstation
+gtt command demonstation
